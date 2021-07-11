@@ -13,7 +13,9 @@ public final class App {
 
         // bancosDados.create(new Banco(333, "Banco Teste"));
 
-        // bancosDados.update(new Banco(333, "Banco Teste Brasil"));
+        // Banco updateBanco = bancosDados.getByNumero(333);
+        // updateBanco.setNome("Banco Teste Brasil");
+        // bancosDados.update(updateBanco);
 
         // bancosDados.delete(333);
 
